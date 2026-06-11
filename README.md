@@ -13,7 +13,7 @@ Currently at **TeselaGen Biotechnology** (remote, California). Previously at Blo
 - **Platform engineering** — Internal developer platforms, GitOps, secret management, supply chain hygiene
 - **Cloud cost & performance** — Recent: 30% GCP cost reduction (~$48K/year), 3× faster CI/CD pipelines
 - **Agentic AI workflows** — Production AI agents with the Claude Agent SDK, Python, MCP servers
-- **Building [resonadores.com](https://resonadores.com)** — A self-funded full-stack SaaS (FastAPI + React + Supabase)
+- **Building [resonateops.com](https://resonateops.com)** — A self-funded full-stack SaaS (FastAPI + React + Supabase)
 
 ### Stack
 
